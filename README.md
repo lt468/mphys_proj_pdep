@@ -1,4 +1,4 @@
-# Pressure Dependent Reactions implemented into ATMO
+# Pressure Dependent Reactions Implemented into ATMO
 
 This repository contains the implementation of pressure dependent reactions into ATMO, as part of my MPhys Project and dissertation titled "The Effects of a New Chemical Scheme on the Composition and Spectra of Giant Exoplanetary Atmospheres". The dissertation can be found [here](https://drive.proton.me/urls/WGV57CDY64#SzUvXANpNrcv).
 
